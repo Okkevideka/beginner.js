@@ -1,0 +1,2 @@
+# beginner.js
+VERY BASIC JAVASCRIPT.
